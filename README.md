@@ -1,2 +1,2 @@
 # portfolio
-This was made using bootstrap.Project is complete but many information are still remaining to be added.
+This was made using bootstrap.Project is complete but content is not complete.
