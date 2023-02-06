@@ -1,3 +1,3 @@
 # portfolio
-This was made using bootstrap.Project is complete but content is not complete.
+This was made using bootstrap.
 https://pratik213.github.io/portfolio/
